@@ -7,5 +7,5 @@ All of these solutions will be written and verified with Python, along with the 
 3. __Keep it simple!__
 
 ## Tasks
-- Day 1: The Tyranny of the Rocket Equation (20th, 99th)
+- Day 1: The Tyranny of the Rocket Equation __(20th, 99th)__
 - Day 2: To be continued...
