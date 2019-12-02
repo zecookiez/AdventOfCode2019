@@ -8,4 +8,5 @@ All of these solutions will be written and verified with Python, along with the 
 
 ## Tasks
 - Day 1: The Tyranny of the Rocket Equation __(20th, 99th)__
-- Day 2: To be continued...
+- Day 2: 1202 Program Alarm __(22nd, 12th)__
+- Day 3: To be continued...
