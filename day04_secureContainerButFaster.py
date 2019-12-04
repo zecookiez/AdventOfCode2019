@@ -47,7 +47,7 @@ def solve(low, high):
                 a, b = helper(dig + 1,
                               i,
                               rep + 1,
-                              True,
+                              p1 or rep + 1 >= 2,
                               p2,
                               gr or i > low[dig],
                               lo or i < high[dig])
@@ -57,7 +57,7 @@ def solve(low, high):
                 a, b = helper(dig + 1,
                               i,
                               1,
-                              p1,
+                              p1 or rep >= 2,
                               p2 or rep == 2,
                               gr or i > low[dig],
                               lo or i < high[dig])
