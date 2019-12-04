@@ -10,6 +10,7 @@ All of these solutions will be written and verified with Python, along with the 
 - Day 1: The Tyranny of the Rocket Equation __(20th, 99th)__
 - Day 2: 1202 Program Alarm __(22nd, 12th)__
 - Day 3: Crossed Wires __(183rd, 98th)__
-- Day 4: To be continued...
+- Day 4: Secure Container __(11th, 23rd)__
+- Day 5: To be continued...
 
-__Current score:__ 254 points
+__Current score:__ 422 points
