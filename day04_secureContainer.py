@@ -16,7 +16,7 @@ from time import time
     The following code takes < 1ms of time in Python2, which is way better than what I was aiming for :)
         
 
-""
+"""
 
 def solve(low, high):
 
