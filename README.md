@@ -2,15 +2,20 @@
 A series of challenges in spirit of the holidays 🎄
 
 All of these solutions will be written and verified with Python, along with the following goals:
-1. __Efficiency,__ where a more efficient algorithm will do the job without over-killing the problem. I am aiming for sub-15 seconds for these tasks.
+1. __Efficiency,__ where a more efficient algorithm will do the job without over-killing the problem. I am aiming for sub-15 seconds using plain Python2.7 (no PyPy or JIT compilers allowed) for these tasks.
 2. __Organization.__ Avoid duplicate code for better readability.
 3. __Keep it simple!__
 
 ## Tasks
-- Day 1: The Tyranny of the Rocket Equation __(20th, 99th)__
-- Day 2: 1202 Program Alarm __(22nd, 12th)__
-- Day 3: Crossed Wires __(183rd, 98th)__
-- Day 4: Secure Container __(11th, 23rd)__
-- Day 5: To be continued...
+
+| Day | Name                               | Part 1 | Part 2 | Runtime |
+| --- | ---------------------------------- |:------:|:------:| -------:|
+| 1   | The Tyranny of the Rocket Equation | 20th   | 99th   | < 1ms   |
+| 2   | 1202 Program Alarm                 | 22nd   | 12th   | 70ms    |
+| 3   | Crossed Wires                      | 183rd  | 98th   | 150ms   |
+| 4   | Secure Container                   | 11th   | 23rd   | < 1ms   |
+| 5   | To be continued...                 |        |        |         |
 
 __Current score:__ 422 points
+
+__Total runtime:__ 220 milliseconds
