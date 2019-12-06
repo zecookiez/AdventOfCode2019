@@ -6,6 +6,10 @@ All of these solutions will be written and verified with Python, along with the 
 2. __Organization.__ Avoid duplicate code for better readability.
 3. __Keep it simple!__
 
+## Notable Nights
+
+- Day 5: Lost plenty of time to misreading the problem.
+
 ## Tasks
 
 | Day | Name                               | Part 1 | Part 2 | Runtime |
@@ -14,7 +18,8 @@ All of these solutions will be written and verified with Python, along with the 
 | 2   | 1202 Program Alarm                 | 22nd   | 12th   | 70ms    |
 | 3   | Crossed Wires                      | 183rd  | 98th   | 150ms   |
 | 4   | Secure Container                   | 11th   | 23rd   | < 1ms   |
-| 5   | To be continued...                 |        |        |         |
+| 5   | Sunny with a Change of Asteroids   | 1748th | 1043rd | < 1ms   |
+| 6   | To be continued...                 |        |        |         |
 
 __Current score:__ 422 points
 
