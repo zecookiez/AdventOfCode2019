@@ -9,6 +9,7 @@ All of these solutions will be written and verified with Python, along with the 
 ## Notable Nights
 
 - Day 5: Lost plenty of time to misreading the problem.
+- Day 6: Time lost from missing the constraint of the root node.
 
 ## Tasks
 
@@ -19,8 +20,9 @@ All of these solutions will be written and verified with Python, along with the 
 | 3   | Crossed Wires                      | 183rd  | 98th   | 150ms   |
 | 4   | Secure Container                   | 11th   | 23rd   | < 1ms   |
 | 5   | Sunny with a Change of Asteroids   | 1748th | 1043rd | < 1ms   |
-| 6   | To be continued...                 |        |        |         |
+| 6   | Universal Orbit Map                | 218th  | 130th  | 5ms     |
+| 7   | To be continued...                 |        |        |         |
 
 __Current score:__ 422 points
 
-__Total runtime:__ 220 milliseconds
+__Total runtime:__ 225 milliseconds
